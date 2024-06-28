@@ -1,3 +1,3 @@
 # rccar1
 
-Developed with Unreal Engine 5
+concept: https://docs.google.com/document/d/14wVUgnAiZiZQw9HcBbwAq6OndYYLJSTVtedqk--dHpQ/edit?usp=sharing
